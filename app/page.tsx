@@ -19,7 +19,7 @@ export default function Home() {
         <div className="container flex h-16 items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
             <Sparkles className="h-6 w-6 text-rose-400" />
-            <span className="text-xl font-medium">週末リトリート特集</span>
+            <span className="text-xl font-medium">週末リトリート特集 version1</span>
           </Link>
           <nav className="hidden md:flex gap-6">
             <Link href="#features" className="text-sm font-medium hover:text-rose-500 transition-colors">
